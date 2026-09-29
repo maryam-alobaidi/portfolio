@@ -1,30 +1,23 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🚀 Maryam Al Obaidi - Professional Portfolio
 
+Welcome to my personal portfolio repository! This website showcases my background, skills, and projects as a software developer.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+## 🛠️ Built With
+* **HTML5 & CSS3** (Customized Dimension template by HTML5 UP)
+* **JavaScript**
+* **Font Awesome** (for professional icons)
+* **Web3Forms** (for secure contact form handling)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## ✨ Features
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
+* **Modern Dark Theme:** Sleek professional aesthetic tailored for tech portfolios.
+* **Interactive Navigation:** Clean layout featuring custom section transitions.
+* **Functional Contact Form:** Secure messaging integration.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📂 Project Structure
+```text
+├── index.html        # Main landing page
+├── assets/
+│   ├── css/          # Custom stylesheets
+│   ├── js/           # JavaScript scripts
+│   └── webimages/    # Portfolio images & icons
